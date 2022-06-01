@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository_Yazovskih"]
+	path = SubmoduleRepository_Yazovskih
+	url = ssh://git@github.com/Pavel-Yazovskih/SubmoduleRepository_Yazovskih.git
